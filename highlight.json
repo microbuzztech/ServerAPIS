@@ -1,11 +1,11 @@
 [
   {
-    "id": "link1",
-    "title": "Channel-1",
-    "team1": "India",
-    "team2": "South Africa",
-    "team1_img": "https://img.sofascore.com/api/v1/team/187765/image",
-    "team2_img": "https://img.sofascore.com/api/v1/team/187747/image"
+    "id": "nzwi2025",
+    "title": "West Indies Tour Of New Zealand 2025",
+    "team1": "West Indies",
+    "team2": "New Zealand",
+    "team1_img": "https://upload.wikimedia.org/wikipedia/en/9/9b/Cricket_West_Indies_Logo_2017.png",
+    "team2_img": "https://upload.wikimedia.org/wikipedia/en/1/19/Logo_of_cricket_New_zealand_Team.png"
   },
   {
     "id": "link1",
