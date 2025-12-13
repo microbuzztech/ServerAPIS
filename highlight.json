@@ -1,0 +1,42 @@
+[
+  {
+    "id": "link1",
+    "title": "Channel-1",
+    "team1": "India",
+    "team2": "South Africa",
+    "team1_img": "https://img.sofascore.com/api/v1/team/187765/image",
+    "team2_img": "https://img.sofascore.com/api/v1/team/187747/image"
+  },
+  {
+    "id": "link1",
+    "title": "Channel-2",
+    "team1": "India",
+    "team2": "South Africa",
+    "team1_img": "https://img.sofascore.com/api/v1/team/187765/image",
+    "team2_img": "https://img.sofascore.com/api/v1/team/187747/image"
+  },
+  {
+    "id": "link3",
+    "title": "Channel-3",
+    "team1": "Sri Lanka",
+    "team2": "Zimbabwe",
+    "team1_img": "https://img.sofascore.com/api/v1/team/187756/image",
+    "team2_img": "https://img.sofascore.com/api/v1/team/187745/image"
+  },
+  {
+    "id": "link4",
+    "title": "New Zealand vs West Indies, 3rd ODI",
+    "team1": "New Zealand",
+    "team2": "West Indies",
+    "team1_img": "https://img.sofascore.com/api/v1/team/187755/image",
+    "team2_img": "https://img.sofascore.com/api/v1/team/187747/image"
+  },
+  {
+    "id": "link5",
+    "title": "West Indies tour of New Zealand,2nd odi",
+    "team1": "New Zealand",
+    "team2": "West Indies",
+    "team1_img": "https://img.sofascore.com/api/v1/team/187755/image",
+    "team2_img": "https://img.sofascore.com/api/v1/team/187760/image"
+  }
+]
