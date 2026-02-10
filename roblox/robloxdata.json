@@ -1,0 +1,316 @@
+{
+  "memes": [
+    {
+      "title": "Roblox Friends",
+      "description": "When your friend gets a rare item and you don’t: I’m happy for you... I guess 😏"
+    },
+    {
+      "title": "Accidental Leave",
+      "description": "Spent an hour building, accidentally hits the \"leave\" button. 😭"
+    },
+    {
+      "title": "Roblox Roleplay",
+      "description": "When you join a roleplay server and everyone is super serious: Am I in the right place? 🤔"
+    },
+    {
+      "title": "Roblox Fashion",
+      "description": "When you see someone with a limited edition item: I’m not worthy 😳"
+    },
+    {
+      "title": "Roblox Friends",
+      "description": "When your friend says they’ll join you but takes forever: I’m waiting... ⏳"
+    },
+    {
+      "title": "RBX Scams",
+      "description": "When you realize that 'free RBX' was just a scam: facepalm 🤦‍♀️"
+    }
+  ],
+  "tips": [
+    {
+      "title": "Navigating the RBX App",
+      "description": "The Marketplace is a dynamic environment, so prices can fluctuate! Keep checking back on items you want. Some items might be marked down or offered as part of limited-time promotions. Be patient and you might find yourself lucky enough to snag a coveted item at a bargain price."
+    },
+    {
+      "title": "Master the Marketplace",
+      "description": "The Marketplace is your treasure chest of in-game goodies. Don’t just browse randomly; use filters to narrow down your search. Look for items that align with your current game interests. Want new clothes for your favourite avatars? Filter by category, price, and popularity. Always check out the Featured section for trending items!"
+    },
+    {
+      "title": "Utilizing RBX in-Game",
+      "description": "Once you have acquired RBX, you can use them to purchase a variety of in-game items and experiences. These include cosmetic items like avatars and accessories, access to premium game features, and exclusive experiences within various Roblox games."
+    },
+    {
+      "title": "Managing Your RBX Balance",
+      "description": "The app provides a clear overview of your current RBX balance. You can easily track your spending and monitor your RBX balance to make informed decisions. The app also shows your recent purchase history, allowing you to review your transactions."
+    },
+    {
+      "title": "Redeeming RBX Codes",
+      "description": "If you have received a RBX code from a friend or a promotional campaign, you can redeem it directly within the app. Navigate to the Redeem Codes section and enter the code accurately. Your RBX will be instantly added to your account, ready to be used."
+    },
+    {
+      "title": "Exploring The RBX Marketplace",
+      "description": "The RBX Marketplace is where you can discover a wide selection of digital items and experiences to enhance your Roblox gameplay. Explore categories like clothing, accessories, emotes, and game passes. You can filter your search by price, popularity, and other criteria to quickly find what you're looking for."
+    },
+    {
+      "title": "Staying Informed with App Updates",
+      "description": "The RBX app is regularly updated with new features, improvements, and bug fixes. Make sure to check for updates and install them to enjoy the latest features and a seamless experience."
+    },
+    {
+      "title": "Engaging with the Community",
+      "description": "The app also serves as a gateway to connect with the vibrant Roblox community. You can join forums, participate in discussions, and share your experiences with other gamers. Engaging with fellow players can provide valuable insights into the latest trends, popular games, and tips for maximising your RBX usage. Building connections within the community can enhance your overall gaming experience."
+    },
+    {
+      "title": "Become a RBX Savvy Buyer",
+      "description": "Don’t just impulsively buy everything that catches your eye. Plan your purchases! Look for bundles, which often offer better value for your RBX. Compare prices for similar items across different sellers. And remember, RBX can be used for more than just cosmetic items; game passes and other in-game experiences can be incredible investments."
+    },
+    {
+      "title": "Hunt for Hidden Deals",
+      "description": "The RBX app is designed with simplicity and user-friendliness in mind. Upon opening the app, you'll be greeted with a clean interface that showcases the core functionalities. The main menu will present you with options for purchasing RBX, managing your existing RBX balance, and exploring the world of in-game items and experiences. You can easily access the app's settings for customizing your experience and managing your account."
+    }
+  ],
+  "skins": [
+    {
+      "image": "roblox/skins/skin_1.png",
+      "title": "Barbie Skins",
+      "description": "Barbie Skins in Roblox allow players to dress their avatars in stylish, glamorous, and doll-inspired outfits—often featuring pink themes, fashionable accessories, and iconic Barbie styles.",
+      "price": 15000
+    },
+    {
+      "image": "roblox/skins/skin_2.png",
+      "title": "Batgirl Skins",
+      "description": "Batgirl Skins showcase the superhero persona with dark tones, cape elements, and bold accessories reflecting Gotham’s vigilante style. Perfect for fans of action and justice.",
+      "price": 10000
+    },
+    {
+      "image": "roblox/skins/skin_3.png",
+      "title": "Evening Dress Skins",
+      "description": "Evening Dress Skins offer elegant formal wear perfect for glamorous parties or fashion games in Roblox, featuring flowing gowns and luxury textures.",
+      "price": 12500
+    },
+    {
+      "image": "roblox/skins/skin_4.png",
+      "title": "Harley Quinn Skins",
+      "description": "Inspired by the infamous DC character, Harley Quinn Skins bring punk-rock fashion, dual-toned hair, and chaotic style to Roblox.",
+      "price": 13500
+    },
+    {
+      "image": "roblox/skins/skin_5.png",
+      "title": "Maid Anime Outfit Skins",
+      "description": "These skins feature classic anime-style maid uniforms—popular in roleplay servers—with bows, aprons, and pastel themes.",
+      "price": 14999
+    },
+    {
+      "image": "roblox/skins/skin_6.png",
+      "title": "M Drones Skins",
+      "description": "M Drones Skins feature futuristic robotic designs ideal for sci-fi lovers, with mechanical suits and visor helmets.",
+      "price": 13999
+    },
+    {
+      "image": "roblox/skins/skin_7.png",
+      "title": "Pink Tracksuit Skins",
+      "description": "These skins offer cozy, trendy pink tracksuits perfect for casual streetwear or lounge-style avatars in Roblox.",
+      "price": 12499
+    },
+    {
+      "image": "roblox/skins/skin_8.png",
+      "title": "Pomni Skins",
+      "description": "Pomni Skins bring quirky, animated cartoon character aesthetics with exaggerated facial features and vibrant colors.",
+      "price": 10000
+    },
+    {
+      "image": "roblox/skins/skin_9.png",
+      "title": "School Uniform Skins",
+      "description": "These skins replicate typical anime-inspired school uniforms with neat blazers, skirts, and backpacks for high school RP.",
+      "price": 13499
+    },
+    {
+      "image": "roblox/skins/skin_10.png",
+      "title": "Sci-Fi Combat Jumpsuit Skins",
+      "description": "Sci-Fi Jumpsuit Skins are sleek, armored outfits with glowing patterns, perfect for space battles or futuristic RP.",
+      "price": 14999
+    },
+    {
+      "image": "roblox/skins/skin_11.png",
+      "title": "Smurf Cat Skins",
+      "description": "Cute and comical, Smurf Cat Skins feature blue cat-like characters, mixing Smurf aesthetics with feline fun.",
+      "price": 15000
+    },
+    {
+      "image": "roblox/skins/skin_12.png",
+      "title": "Wednesday Skins",
+      "description": "Inspired by Wednesday Addams, these skins feature gothic black dresses, braids, and spooky vibes for mysterious avatars.",
+      "price": 50000
+    },
+    {
+      "image": "roblox/skins/skin_13.png",
+      "title": "Wonder Woman Skins",
+      "description": "Bring out your inner warrior with Wonder Woman Skins, complete with Amazon armor, lasso details, and heroic style.",
+      "price": 49999
+    },
+    {
+      "image": "roblox/skins/skin_14.png",
+      "title": "Akatsuki Naruto Skins",
+      "description": "Based on the Akatsuki from Naruto, these skins feature red clouds, black cloaks, and ninja aesthetics for anime fans.",
+      "price": 19999
+    },
+    {
+      "image": "roblox/skins/skin_15.png",
+      "title": "Banana Suit Skins",
+      "description": "Go bananas with these hilarious Banana Suit Skins—perfect for comedy avatars and meme-based Roblox gameplay.",
+      "price": 18999
+    },
+    {
+      "image": "roblox/skins/skin_16.png",
+      "title": "Batman Skins",
+      "description": "Dress like the Dark Knight with Batman Skins, including the iconic suit, mask, and dark cape for stealth missions.",
+      "price": 24999
+    },
+    {
+      "image": "roblox/skins/skin_17.png",
+      "title": "Fighter Bucky Skins",
+      "description": "These skins depict a muscular, martial-arts look inspired by Bucky the Grappler—ideal for intense fighter avatars.",
+      "price": 22000
+    },
+    {
+      "image": "roblox/skins/skin_18.png",
+      "title": "Joker Skins",
+      "description": "Joker Skins bring chaos to Roblox with clown-inspired fashion, colorful suits, and a sinister grin.",
+      "price": 23599
+    },
+    {
+      "image": "roblox/skins/skin_19.png",
+      "title": "Men in Black Skins",
+      "description": "Step into the secret agency with Men in Black Skins—black suits, sunglasses, and alien-ready vibes.",
+      "price": 22499
+    },
+    {
+      "image": "roblox/skins/skin_20.png",
+      "title": "Messi Skins",
+      "description": "Show your love for football with Messi Skins—featuring iconic jerseys and sporty styles of the GOAT himself.",
+      "price": 23456
+    },
+    {
+      "image": "roblox/skins/skin_21.png",
+      "title": "Morty Skins",
+      "description": "Morty Skins bring the nervous sci-fi sidekick to Roblox, complete with messy hair and confused expressions.",
+      "price": 22450
+    },
+    {
+      "image": "roblox/skins/skin_22.png",
+      "title": "Naruto Skins",
+      "description": "Naruto Skins are perfect for ninja roleplay, featuring orange jumpsuits, headbands, and chakra-inspired visuals.",
+      "price": 49500
+    },
+    {
+      "image": "roblox/skins/skin_23.png",
+      "title": "Omni Man Skins",
+      "description": "Omni Man Skins bring superhero intensity with a red and gray costume, mustache, and Invincible energy.",
+      "price": 45000
+    },
+    {
+      "image": "roblox/skins/skin_24.png",
+      "title": "Rick Skins",
+      "description": "Get schwifty with Rick Skins—lab coat, spiky hair, and interdimensional genius vibes included.",
+      "price": 30000
+    },
+    {
+      "image": "roblox/skins/skin_25.png",
+      "title": "Saitama Skins",
+      "description": "Saitama Skins (One Punch Man) feature a bald head, yellow jumpsuit, and serious power for comedy and action.",
+      "price": 45000
+    },
+    {
+      "image": "roblox/skins/skin_26.png",
+      "title": "Spider Man Skins",
+      "description": "Swing into action with Spider Man Skins—webbing detail, mask, and poses straight from the multiverse.",
+      "price": 49999
+    },
+    {
+      "image": "roblox/skins/skin_27.png",
+      "title": "Superman Skins",
+      "description": "Become the Man of Steel with Superman Skins—complete with the red cape, blue suit, and heroic posture.",
+      "price": 50000
+    }
+  ],
+  "quiz": [
+    {
+      "question": "In the game ‘Bloxburg’, how do you get a job to earn money in-game?",
+      "option1": "Go to the Employment Center",
+      "option2": "Take Online training",
+      "option3": "Work at different job locations",
+      "option4": "All of the above",
+      "correctAnswer": 2
+    },
+    {
+      "question": "What is the maximum level you can reach in most Bloxburg jobs?",
+      "option1": "10",
+      "option2": "20",
+      "option3": "30",
+      "option4": "50",
+      "correctAnswer": 3
+    },
+    {
+      "question": "Which job in Bloxburg gives the highest pay at max level?",
+      "option1": "Pizza Delivery",
+      "option2": "Hairdresser",
+      "option3": "Janitor",
+      "option4": "Fisherman",
+      "correctAnswer": 0
+    },
+    {
+      "question": "How can you build a house in Bloxburg?",
+      "option1": "By talking to an NPC",
+      "option2": "By entering Build Mode",
+      "option3": "Through the main menu",
+      "option4": "Using a blueprint item",
+      "correctAnswer": 1
+    },
+    {
+      "question": "What is the main currency used in Bloxburg?",
+      "option1": "Robux",
+      "option2": "BloxCoins",
+      "option3": "Simoleons",
+      "option4": "Money",
+      "correctAnswer": 3
+    },
+    {
+      "question": "How do you increase your cooking skill in Bloxburg?",
+      "option1": "By watching YouTube",
+      "option2": "By buying cookbooks",
+      "option3": "By cooking food repeatedly",
+      "option4": "By using special items",
+      "correctAnswer": 2
+    },
+    {
+      "question": "Which Bloxburg feature allows you to customize your house design?",
+      "option1": "Build Mode",
+      "option2": "Furniture Store",
+      "option3": "Property Editor",
+      "option4": "House Manager",
+      "correctAnswer": 0
+    },
+    {
+      "question": "How do you increase your character's fun in Bloxburg?",
+      "option1": "Watching TV",
+      "option2": "Sleeping",
+      "option3": "Going to work",
+      "option4": "Shopping",
+      "correctAnswer": 0
+    },
+    {
+      "question": "Which game pass lets you build on larger plots in Bloxburg?",
+      "option1": "Multiple Floors",
+      "option2": "Advanced Placement",
+      "option3": "Large Plot",
+      "option4": "Basement Pass",
+      "correctAnswer": 2
+    },
+    {
+      "question": "How can you save your progress in Bloxburg?",
+      "option1": "By sleeping in bed",
+      "option2": "Auto-save feature",
+      "option3": "Manual save menu",
+      "option4": "Talking to a guide",
+      "correctAnswer": 1
+    }
+  ]
+}
