@@ -312,5 +312,1249 @@
       "option4": "Talking to a guide",
       "correctAnswer": 1
     }
+  ],
+  "characters": [
+    {
+      "image": "roblox/characters/ch_calico.webp",
+      "name": "Calico",
+      "id": "2940187365",
+      "description": "Calico is a fun-loving explorer with a passion for discovering hidden treasures across Roblox worlds. Her colorful outfit reflects her adventurous spirit and playful attitude. She’s known for being both brave and curious, never shying away from a challenge. Whether navigating dungeons or building cities, Calico always brings creativity to the scene. Friends love her for her optimism and boundless energy.",
+      "price": 10000
+    },
+    {
+      "image": "roblox/characters/ch_capybara.webp",
+      "name": "CapyBara",
+      "id": "5370264891",
+      "description": "CapyBara is the chillest Robloxian around, always calm no matter the chaos. With his quirky grin and friendly nature, he’s everyone’s go-to buddy for relaxing game nights. Known for his wisdom and humor, he often gives great advice in tough situations. He loves hanging out near water maps and nature-themed games. CapyBara’s motto is simple — 'Stay cool, stay kind.'",
+      "price": 15000
+    },
+    {
+      "image": "roblox/characters/ch_cindy.webp",
+      "name": "Cindy",
+      "id": "8710359240",
+      "description": "Cindy is a stylish trendsetter who brings fashion and flair wherever she goes. She’s known for mixing bold colors and futuristic accessories to create a signature look. Beyond her fashion sense, Cindy is kind-hearted and loves helping newcomers in the Roblox universe. Her positive vibes make every server she joins a little brighter. She dreams of designing her own in-game fashion line one day.",
+      "price": 19999
+    },
+    {
+      "image": "roblox/characters/ch_city_life_woman.webp",
+      "name": "City Life Woman",
+      "id": "4029175836",
+      "description": "City Life Woman is the embodiment of urban energy and modern confidence. She navigates bustling Roblox cities with grace, always ready to take on a new adventure. Her sleek outfit and strong attitude make her stand out in any crowd. She enjoys exploring coffee shops, music festivals, and high-rise rooftops in-game. A true multitasker, she balances style, work, and fun effortlessly.",
+      "price": 10000
+    },
+    {
+      "image": "roblox/characters/ch_claire.webp",
+      "name": "Claire",
+      "id": "6590423718",
+      "description": "Claire is a mysterious sorceress who wields ancient powers of light and nature. Her calm aura hides the immense strength she carries within. Players admire her for her wisdom and her ability to restore balance during tough battles. She often mentors younger players in quests and magical storylines. Claire’s charm lies in her quiet confidence and deep compassion.",
+      "price": 14999
+    },
+    {
+      "image": "roblox/characters/ch_dennis.webp",
+      "name": "Dennis",
+      "id": "1850432690",
+      "description": "Dennis is a cheerful prankster who always keeps the mood light and fun. He’s famous for his hilarious reactions and clever one-liners during intense matches. Despite his playful side, Dennis is a loyal teammate who never lets friends down. He loves parkour maps and obstacle courses, where his quick reflexes shine. Every game feels more exciting when Dennis is around.",
+      "price": 10000
+    },
+    {
+      "image": "roblox/characters/ch_denny.webp",
+      "name": "Denny",
+      "id": "2746903158",
+      "description": "Denny is a fearless competitor who thrives on challenges and high-stakes games. His confidence and leadership inspire others to push their limits. With his tactical mind, he often leads his team to victory in battle and strategy maps. Denny values friendship and fair play above all. When not competing, he’s known for mentoring newer players to help them improve.",
+      "price": 25000
+    },
+    {
+      "image": "roblox/characters/ch_john.webp",
+      "name": "John",
+      "id": "6387042159",
+      "description": "John is a classic Roblox hero — dependable, courageous, and ready for any quest. His sharp sense of justice and loyalty make him a trusted ally in every mission. He’s known for his impressive sword skills and quick thinking in battles. Outside combat, John enjoys exploring creative build maps and helping others. His motto: 'Be brave, build strong, and play fair.'",
+      "price": 30000
+    },
+    {
+      "image": "roblox/characters/ch_junkbot.webp",
+      "name": "Junkbot",
+      "id": "4938021765",
+      "description": "Junkbot is a lovable robot built entirely from recycled scraps and spare parts. Despite his clunky appearance, he’s full of charm and humor. He loves solving puzzles and helping other players with tricky challenges. His robotic voice and goofy dance moves make him unforgettable. Junkbot proves that even junk can shine with a spark of creativity.",
+      "price": 34999
+    },
+    {
+      "image": "roblox/characters/ch_knights_of_redchiff.webp",
+      "name": "Knights of Redchiff",
+      "id": "5728039146",
+      "description": "The Knights of Redchiff are legendary warriors known for their loyalty and courage. Clad in crimson armor, they defend the Roblox realms from chaos and darkness. Their teamwork and discipline are unmatched in battle. Each knight upholds the ancient code of honor and bravery. Together, they inspire others to fight for justice and unity.",
+      "price": 25000
+    },
+    {
+      "image": "roblox/characters/ch_lindsey.webp",
+      "name": "Lindsey",
+      "id": "7601934285",
+      "description": "Lindsey is a bright and friendly Robloxian who loves spreading joy through music and dance. Her outfits are always vibrant, reflecting her cheerful energy. She enjoys performing on stage maps and hosting fun community events. Everyone knows her for her kindness and enthusiasm. Lindsey believes every day in Roblox is a chance to make someone smile.",
+      "price": 50000
+    },
+    {
+      "image": "roblox/characters/ch_linlin.webp",
+      "name": "LinLin",
+      "id": "3981725640",
+      "description": "LinLin is a skilled artist and builder who creates breathtaking worlds in Roblox. Her imagination has no limits, and she’s always experimenting with new designs. LinLin’s calm and focused nature makes her a great collaborator in creative projects. She enjoys teaching others how to craft beautiful maps and objects. Her creations are known for blending art, nature, and fantasy.",
+      "price": 40000
+    },
+    {
+      "image": "roblox/characters/ch_monster_hugs.webp",
+      "name": "Monster Hugs",
+      "id": "2178349561",
+      "description": "Monster Hugs may look scary, but he’s actually the sweetest monster around. He loves giving big friendly hugs to everyone he meets. His goofy grin and warm personality make him a fan favorite. Despite his size, he’s gentle and protective of his friends. Monster Hugs reminds everyone that kindness comes in all shapes and sizes.",
+      "price": 49000
+    },
+    {
+      "image": "roblox/characters/ch_oliver.webp",
+      "name": "Oliver",
+      "id": "5043918726",
+      "description": "Oliver is a charming adventurer with a knack for solving mysteries. He’s intelligent, witty, and always carries a map wherever he goes. His detective-like curiosity drives him to explore every corner of Roblox. Oliver enjoys teaming up with friends to uncover hidden secrets. His calm determination makes him a reliable companion in every quest.",
+      "price": 44999
+    },
+    {
+      "image": "roblox/characters/ch_peyton.webp",
+      "name": "Peyton",
+      "id": "8124963057",
+      "description": "Peyton is an energetic athlete who lives for competition and teamwork. Whether it’s racing, football, or obstacle maps, Peyton gives 100%. His positive attitude motivates others to do their best. He’s known for celebrating everyone’s wins, not just his own. Peyton believes that true victory comes from effort and sportsmanship.",
+      "price": 49999
+    },
+    {
+      "image": "roblox/characters/ch_roblox_boy.webp",
+      "name": "Roblox Boy",
+      "id": "1908472369",
+      "description": "Roblox Boy is the face of classic Roblox — simple, bold, and timeless. He represents creativity, exploration, and endless possibilities. Players of all ages recognize his cheerful smile and blue outfit. He’s adventurous yet humble, embodying the true Roblox spirit. Roblox Boy is not just a character; he’s a symbol of the community’s imagination.",
+      "price": 42000
+    },
+    {
+      "image": "roblox/characters/ch_squad_ghaouls.webp",
+      "name": "Squad Ghaouls",
+      "id": "6742098513",
+      "description": "The Squad Ghaouls are a spooky but lovable team who adore Halloween adventures. Each member brings a mix of fright and fun to the party. They roam haunted houses, tell ghost stories, and hand out candy in-game. Despite their eerie looks, they’re friendly and full of humor. The Ghaouls prove that even ghosts can have heart and style.",
+      "price": 30000
+    },
+    {
+      "image": "roblox/characters/ch_summer.webp",
+      "name": "Summer",
+      "id": "9302817456",
+      "description": "Summer is sunshine in human form — bright, carefree, and full of energy. She loves beaches, picnics, and any game that celebrates fun in the sun. Her colorful outfits always match her happy-go-lucky attitude. Summer inspires others to relax, smile, and enjoy life’s little moments. Every time she joins a game, it instantly feels warmer and more joyful.",
+      "price": 35000
+    }
+  ],
+  "bundles": [
+    {
+      "image": "roblox/animations/bundles/bundle_cartoony.webp",
+      "name": "Cartoony",
+      "id": "1019283745",
+      "price": 18420,
+      "description": "Cartoony is a fun and exaggerated animation bundle that brings a sense of humor to every move. Its bouncy walk and lively gestures make players look expressive and full of personality. This bundle is perfect for creators who love playful, non-serious vibes. It turns every game moment into a lighthearted adventure. Cartoony proves that fun is the best kind of style."
+    },
+    {
+      "image": "roblox/animations/bundles/bundle_catwalk_glam.webp",
+      "name": "Catwalk Glam",
+      "id": "1028364759",
+      "price": 32780,
+      "description": "Catwalk Glam is the ultimate bundle for Robloxians who love fashion and flair. Every animation exudes elegance, from confident poses to stylish walks. It’s inspired by runway stars and high-end design. Perfect for roleplays, shows, and luxury hangouts, this bundle makes you stand out effortlessly. With Catwalk Glam, every step is a statement."
+    },
+    {
+      "image": "roblox/animations/bundles/bundle_elder.webp",
+      "name": "Elder",
+      "id": "1039475826",
+      "price": 45110,
+      "description": "Elder is a wise and ancient-looking bundle that adds depth to any character. Its slow, deliberate animations give the impression of age, power, and experience. Ideal for wizards, kings, or mentors in fantasy settings, it radiates authority. The Elder’s calm gestures speak of centuries of wisdom. It’s a favorite among storytellers and lore lovers."
+    },
+    {
+      "image": "roblox/animations/bundles/bundle_mage.webp",
+      "name": "Mage",
+      "id": "1046583927",
+      "price": 21960,
+      "description": "Mage is a mystical bundle filled with energy and power. Its animations flow with grace, giving off an aura of magic and mystery. Perfect for spellcasters and adventurers in fantasy games, it blends elegance with strength. Every gesture feels like a spell in motion. With Mage, your Roblox avatar truly becomes an arcane master."
+    },
+    {
+      "image": "roblox/animations/bundles/bundle_nfl.webp",
+      "name": "NFL",
+      "id": "1052947683",
+      "price": 49850,
+      "description": "NFL is a sports-themed bundle built for champions and team players. Its movements are athletic, confident, and full of energy. Designed for Robloxians who love football and competition, it shows strength and teamwork. The bundle celebrates discipline, speed, and victory. Wearing it feels like stepping onto the digital field of glory."
+    },
+    {
+      "image": "roblox/animations/bundles/bundle_rthro.webp",
+      "name": "Rthro",
+      "id": "1068372945",
+      "price": 27640,
+      "description": "Rthro is the modern Roblox bundle that redefines avatar proportions and realism. It brings a smooth, human-like animation style to classic Roblox designs. Players who want a more lifelike or cinematic experience love it. The bundle adds fluidity to every movement, making it feel immersive and fresh. Rthro stands for evolution in Roblox style."
+    },
+    {
+      "image": "roblox/animations/bundles/bundle_stylish.webp",
+      "name": "Stylish",
+      "id": "1079465823",
+      "price": 34290,
+      "description": "Stylish is the go-to bundle for players who walk with confidence and flair. Its movements are sleek, confident, and full of character. From cool poses to smooth steps, it radiates personality. Ideal for influencers, creators, and fashion icons in Roblox. Stylish ensures your avatar always looks camera-ready."
+    },
+    {
+      "image": "roblox/animations/bundles/bundle_superhero.webp",
+      "name": "Superhero",
+      "id": "1085274961",
+      "price": 40730,
+      "description": "Superhero is a dynamic and bold bundle for players who dream big. Its powerful stances and swift animations make every avatar feel unstoppable. Designed for action lovers, it’s perfect for battle games and heroic adventures. It radiates courage, strength, and determination. With this bundle, you become the hero every world needs."
+    },
+    {
+      "image": "roblox/animations/bundles/bundle_toy.webp",
+      "name": "Toy",
+      "id": "1096327845",
+      "price": 16350,
+      "description": "Toy is a playful and blocky bundle that celebrates Roblox’s original charm. Its animations are cheerful, simple, and nostalgic. Fans of the classic Roblox style adore its fun vibe. It’s ideal for those who love creativity and lighthearted adventures. Toy reminds everyone why Roblox is all about imagination and fun."
+    },
+    {
+      "image": "roblox/animations/bundles/bundle_vampire.webp",
+      "name": "Vampire",
+      "id": "1109483726",
+      "price": 38920,
+      "description": "Vampire is a dark and elegant bundle filled with mystery and charm. Its slow, dramatic movements create a gothic and powerful aura. Perfect for spooky games or stylish roleplays, it’s both sinister and captivating. The bundle’s confident posture oozes confidence and sophistication. With Vampire, night is your stage and style your power."
+    }
+  ],
+  "emotes": [
+    {
+      "image": "roblox/animations/emotes/emote_ala_yoga_pose.webp",
+      "name": "Ala Yoga Pose",
+      "id": "2019483756",
+      "price": 17240,
+      "description": "Ala Yoga Pose is the perfect emote for calm and balance. It shows your avatar standing gracefully in a meditative stance. The pose represents inner peace, focus, and mindfulness in any Roblox world. Ideal for chill hangouts or nature maps, it radiates serenity. Ala Yoga Pose reminds everyone to breathe and stay centered."
+    },
+    {
+      "image": "roblox/animations/emotes/emote_baby_queen.webp",
+      "name": "Baby Queen",
+      "id": "2028359647",
+      "price": 38960,
+      "description": "Baby Queen is a playful and royal-themed emote full of confidence and charm. Your avatar strikes a pose like a superstar ready to rule the stage. It’s fun, sassy, and made for players who love attention. Perfect for roleplays, concerts, or fashion games. Baby Queen proves that attitude and sparkle go hand in hand."
+    },
+    {
+      "image": "roblox/animations/emotes/emote_bodybuilder.webp",
+      "name": "Body Builder",
+      "id": "2037465819",
+      "price": 25430,
+      "description": "Body Builder is all about showing off your virtual strength. Your avatar flexes muscles proudly, radiating confidence and energy. It’s great for gym, sports, or power-themed games. This emote captures determination and the spirit of hard work. With Body Builder, you can celebrate strength in every victory pose."
+    },
+    {
+      "image": "roblox/animations/emotes/emote_cartwheel.webp",
+      "name": "Cartwheel",
+      "id": "2046957382",
+      "price": 41670,
+      "description": "Cartwheel brings motion, joy, and acrobatics to your avatar. It spins and flips across the map with a burst of excitement. Perfect for celebrating wins or just having fun. The emote’s smooth animation makes every performance look energetic and free. Cartwheel turns ordinary moments into playful celebrations."
+    },
+    {
+      "image": "roblox/animations/emotes/emote_flex_walk.webp",
+      "name": "Flex Walk",
+      "id": "2059387461",
+      "price": 29850,
+      "description": "Flex Walk combines swagger and confidence in every step. Your avatar struts proudly, showing off unmatched style and rhythm. It’s the perfect emote for entrances, celebrations, or victory laps. Players use it to express bold personality and flair. With Flex Walk, you don’t just move — you make an entrance."
+    },
+    {
+      "image": "roblox/animations/emotes/emote_floor_rock_freeze.webp",
+      "name": "Floor Rock Freeze",
+      "id": "2068173954",
+      "price": 34790,
+      "description": "Floor Rock Freeze is a breakdancing classic that freezes your avatar mid-move. It shows agility, balance, and street-dance skill. The emote adds flair to parties, competitions, and music games. It’s a favorite among creative dancers who love urban energy. Floor Rock Freeze proves you’ve got rhythm and control."
+    },
+    {
+      "image": "roblox/animations/emotes/emote_flowinh_breeze.webp",
+      "name": "Flowinh Breeze",
+      "id": "2074928365",
+      "price": 22160,
+      "description": "Flowinh Breeze is a smooth and flowing emote inspired by dance and calm energy. Your avatar moves gracefully like air or water in motion. It’s elegant, peaceful, and soothing to watch. Ideal for chill servers, art maps, or dreamy moments. Flowinh Breeze adds beauty and tranquility to your performance."
+    },
+    {
+      "image": "roblox/animations/emotes/emote_salute.webp",
+      "name": "Salute",
+      "id": "2083649752",
+      "price": 46920,
+      "description": "Salute is the emote of respect, honor, and pride. Your avatar stands tall and delivers a perfect military-style salute. It’s great for team games, ceremonies, or showing appreciation. Players use it to greet friends or honor victories. Salute symbolizes loyalty and discipline in classic Roblox fashion."
+    },
+    {
+      "image": "roblox/animations/emotes/emote_samba.webp",
+      "name": "Samba",
+      "id": "2094836175",
+      "price": 31240,
+      "description": "Samba brings Latin rhythm and carnival energy to Roblox. Your avatar dances joyfully to invisible drums, full of color and life. It’s perfect for parties, concerts, or tropical adventures. The lively movements spread happiness wherever you go. Samba is a celebration of rhythm, culture, and fun."
+    },
+    {
+      "image": "roblox/animations/emotes/emote_tilt.webp",
+      "name": "Tilt",
+      "id": "2109483756",
+      "price": 18570,
+      "description": "Tilt is a cool and stylish emote with attitude. Your avatar leans slightly, striking a confident pose like a pro. It’s subtle but full of charisma, making it great for screenshots or intros. Players love using it to show calm power and focus. Tilt proves that sometimes less movement makes a stronger impression."
+    }
+  ],
+  "faceaccessories": [
+    {
+      "name": "Adorable Chabbi Cheeks",
+      "id": "4839201746",
+      "price": 18240,
+      "image": "roblox/accessories/facesaccessories/face_adorable_chabbi_cheeks.webp",
+      "description": "A sweet and soft look that radiates innocence and happiness. The rosy cheeks add a playful and charming glow. Perfect for avatars with a friendly or childlike vibe. It captures the essence of a cheerful personality. Loved by players who enjoy cute aesthetics."
+    },
+    {
+      "name": "Blushing",
+      "id": "5820419375",
+      "price": 27450,
+      "image": "roblox/accessories/facesaccessories/face_blush_face.webp",
+      "description": "A shy yet heartwarming face expressing light embarrassment. The gentle blush adds realism and warmth to expressions. Often used for romantic or cute themes. Simple yet elegant, it complements any outfit. Ideal for soft and kind characters."
+    },
+    {
+      "name": "Bored Pretty Look",
+      "id": "6094728310",
+      "price": 39120,
+      "image": "roblox/accessories/facesaccessories/face_bored_pretty_face.webp",
+      "description": "A fashionable face with a hint of boredom and grace. It conveys a sense of confidence and poise. Great for stylish or attitude-based avatars. The subtle details make it look effortlessly cool. Perfect for roleplays and high-fashion themes."
+    },
+    {
+      "name": "Cute Face",
+      "id": "4901826457",
+      "price": 15890,
+      "image": "roblox/accessories/facesaccessories/face_cute.webp",
+      "description": "An adorable face with big eyes and a soft smile. Expresses joy, sweetness, and charm. Loved by players who enjoy lighthearted characters. Its simplicity makes it versatile for many looks. A timeless favorite in Roblox face collections."
+    },
+    {
+      "name": "Cute Face With Black Eyes",
+      "id": "5739182046",
+      "price": 44730,
+      "image": "roblox/accessories/facesaccessories/face_cute_face_with_black_eyes.webp",
+      "description": "A minimal yet expressive face design with bold black eyes. Gives a doll-like innocent expression. Suitable for aesthetic or simple avatars. Enhances characters with a mysterious cute aura. A top pick for kawaii and pastel styles."
+    },
+    {
+      "name": "Cute Smile Blushing Face",
+      "id": "6820194751",
+      "price": 22360,
+      "image": "roblox/accessories/facesaccessories/face_cute_smile_blushing_face.webp",
+      "description": "A bright, heartwarming smile paired with a shy blush. Represents pure joy and kindness. Ideal for friendly or bubbly characters. The pink tones enhance its adorable appeal. Great for positive and happy avatars."
+    },
+    {
+      "name": "Excited Look",
+      "id": "4197350826",
+      "price": 30980,
+      "image": "roblox/accessories/facesaccessories/face_excitedcute.webp",
+      "description": "A wide-eyed look full of excitement and enthusiasm. Shows curiosity and energy perfectly. Best suited for playful or adventurous avatars. Adds life and motion to any appearance. Perfect for expressive roleplay scenes."
+    },
+    {
+      "name": "Kawali Chibbi Look",
+      "id": "5271039842",
+      "price": 48650,
+      "image": "roblox/accessories/facesaccessories/face_kawali_chibbi_face.webp",
+      "description": "A Japanese-inspired chibi-style expression. Highlights cuteness and small features. Great for anime or pastel-themed avatars. The large eyes give it a soft, loving energy. Very popular in aesthetic Roblox communities."
+    },
+    {
+      "name": "Long Laugh Smile",
+      "id": "6842915073",
+      "price": 26740,
+      "image": "roblox/accessories/facesaccessories/face_long_laugh_smile.webp",
+      "description": "A joyful and confident smile that radiates laughter. Perfect for fun and humorous avatars. Brings positivity and liveliness to expressions. Great for social or cheerful characters. A must-have for avatars with personality."
+    },
+    {
+      "name": "Lower Lash Look",
+      "id": "4789123065",
+      "price": 35210,
+      "image": "roblox/accessories/facesaccessories/face_lower_lash_face.webp",
+      "description": "An elegant look featuring defined lower lashes. Expresses sophistication and grace. Often used for fashion-forward or stylish avatars. Its subtle makeup detail enhances realism. A stunning pick for glamorous characters."
+    }
+  ],
+  "headaccessories": [
+    {
+      "name": "Big Hair Pastel Pink Bow",
+      "id": "4892037146",
+      "price": 21450,
+      "image": "roblox/accessories/headaccessories/head_big_hair_pastel_pink_bow.webp",
+      "description": "A vibrant pastel pink bow tied atop voluminous hair. It brings a playful yet stylish energy to your avatar. Perfect for cute or kawaii-themed outfits. The soft tones make it stand out without being too flashy. A must-have for fashion lovers in Roblox."
+    },
+    {
+      "name": "Black Goth Captain Hat",
+      "id": "5029841370",
+      "price": 38720,
+      "image": "roblox/accessories/headaccessories/head_black_goth_captain_hat.webp",
+      "description": "A bold and edgy captain’s hat with gothic flair. Ideal for dark or mysterious character styles. Adds authority and rebellion to any outfit. The intricate black detailing enhances its depth. Perfect for gothic, punk, or fantasy themes."
+    },
+    {
+      "name": "Brown Dog Ears",
+      "id": "5940281637",
+      "price": 17680,
+      "image": "roblox/accessories/headaccessories/head_brown_dog_ears.webp",
+      "description": "Cute floppy dog ears that express loyalty and charm. Great for animal or cosplay avatars. The soft brown texture feels warm and friendly. Blends perfectly with cozy or playful looks. Adds an adorable touch to any Roblox character."
+    },
+    {
+      "name": "Dark Camo Ushkana",
+      "id": "6813094725",
+      "price": 42950,
+      "image": "roblox/accessories/headaccessories/head_dark_camo_ushkana.webp",
+      "description": "A military-inspired ushkana with a dark camouflage pattern. Designed for toughness and stealth. Perfect for combat or adventure-themed avatars. The realistic fabric design gives it a rugged appeal. Ideal for players who love tactical styles."
+    },
+    {
+      "name": "Red Hat",
+      "id": "4208371569",
+      "price": 15320,
+      "image": "roblox/accessories/headaccessories/head_hat.webp",
+      "description": "A bright red hat that symbolizes energy and confidence. Simple yet timeless in design. Fits perfectly with both casual and bold outfits. Great for classic or sporty Roblox looks. A vibrant accessory that draws attention instantly."
+    },
+    {
+      "name": "Pink Brown Beret",
+      "id": "5739184062",
+      "price": 29840,
+      "image": "roblox/accessories/headaccessories/head_pink_brown_beret.webp",
+      "description": "A soft pink and brown beret that exudes Parisian charm. Perfect for artistic or cozy outfits. The color blend adds warmth and sophistication. Ideal for aesthetic or vintage themes. A classy accessory for fashionable avatars."
+    },
+    {
+      "name": "Pink White Pulse Bow",
+      "id": "6950421837",
+      "price": 34190,
+      "image": "roblox/accessories/headaccessories/head_pink_white_pulse_bow.webp",
+      "description": "A bright bow with pink and white hues radiating cuteness. Adds an energetic and lively vibe. Great for cheerful and outgoing avatars. Works beautifully with pastel or Y2K styles. A go-to pick for trendy Roblox players."
+    },
+    {
+      "name": "Unicorn",
+      "id": "4701293854",
+      "price": 47260,
+      "image": "roblox/accessories/headaccessories/head_unicorn.webp",
+      "description": "A magical unicorn horn accessory that sparkles with fantasy. Perfect for dreamlike or fairy-inspired avatars. Adds an instant whimsical touch. Loved by players who adore mythical aesthetics. It transforms any outfit into something enchanted."
+    },
+    {
+      "name": "White Headphone",
+      "id": "5891374062",
+      "price": 22570,
+      "image": "roblox/accessories/headaccessories/head_white_headphone.webp",
+      "description": "A sleek and modern white headphone design. Great for music-themed or techy avatars. Adds a cool and relaxed vibe to your look. Matches both casual and streetwear styles. A favorite for gamers and streamers alike."
+    },
+    {
+      "name": "Punk Cap",
+      "id": "6183049751",
+      "price": 36410,
+      "image": "roblox/accessories/headaccessories/head_y2k_punk_cap.webp",
+      "description": "A retro Y2K punk-style cap with rebellious attitude. Embodies early 2000s street culture. Great for edgy or trendy avatars. Pairs well with denim and bold accessories. Perfect for avatars that stand out with confidence."
+    }
+  ],
+  "neckaccessories": [
+    {
+      "name": "Black Chokker With Silver Cross",
+      "id": "5892037416",
+      "price": 21480,
+      "image": "roblox/accessories/neckaccessories/neck_black_choker_silver_cross.webp",
+      "description": "A sleek black choker accented with a silver cross charm. It blends gothic elegance with modern style. Perfect for dark, mysterious, or edgy avatars. The metallic shine adds a touch of sophistication. A must-have for anyone seeking a bold fashion statement."
+    },
+    {
+      "name": "Black Headphones",
+      "id": "4901826374",
+      "price": 34750,
+      "image": "roblox/accessories/neckaccessories/neck_black_headphones.webp",
+      "description": "Stylish black headphones that scream cool and casual. Ideal for music-loving avatars or gamer aesthetics. The design adds a modern tech vibe to any outfit. Works well with streetwear or casual Roblox looks. A simple yet iconic accessory for trendsetters."
+    },
+    {
+      "name": "Cinnamorolla",
+      "id": "6182039475",
+      "price": 18920,
+      "image": "roblox/accessories/neckaccessories/neck_cinnamorollo.webp",
+      "description": "A cute Cinnamoroll-inspired neckpiece that radiates charm. Perfect for kawaii or pastel-themed avatars. The light blue tones give it a sweet, gentle appearance. Loved by players who adore cute and cozy aesthetics. It’s a delightful piece that adds warmth to any look."
+    },
+    {
+      "name": "Jade Necklace",
+      "id": "5728193406",
+      "price": 42860,
+      "image": "roblox/accessories/neckaccessories/neck_jade_necklace.webp",
+      "description": "A beautiful jade necklace symbolizing peace and balance. Ideal for elegant or spiritual avatars. The green gemstone glows with natural energy. Complements both modern and traditional outfits. A timeless piece that enhances sophistication."
+    },
+    {
+      "name": "White-pink Pearl Ribbon",
+      "id": "6801923745",
+      "price": 25640,
+      "image": "roblox/accessories/neckaccessories/neck_pearl_ribbon.webp",
+      "description": "A delicate ribbon lined with soft white and pink pearls. Radiates innocence and charm effortlessly. Perfect for romantic or classic fashion themes. Adds a soft, graceful touch to any avatar. A signature choice for elegant and kind-hearted styles."
+    },
+    {
+      "name": "Stripped Scarf",
+      "id": "5271039486",
+      "price": 17390,
+      "image": "roblox/accessories/neckaccessories/neck_pink_stripped_scarf.webp",
+      "description": "A warm pink striped scarf for cozy winter vibes. Great for cute or casual outfits. Adds texture and comfort to your avatar. The striped design gives a cheerful aesthetic. A lovely accessory for soft and trendy styles."
+    },
+    {
+      "name": "Beige Coloured Scarf",
+      "id": "6049172835",
+      "price": 39210,
+      "image": "roblox/accessories/neckaccessories/neck_plaid_beige_scarf.webp",
+      "description": "A cozy beige plaid scarf perfect for fall and winter looks. Gives your avatar a relaxed yet refined touch. Neutral tones make it easy to pair with any outfit. Great for preppy or aesthetic Roblox fits. A classic piece that never goes out of style."
+    },
+    {
+      "name": "Brown Coloured Scarf",
+      "id": "6839204157",
+      "price": 31570,
+      "image": "roblox/accessories/neckaccessories/neck_plaid_brown_scarf.webp",
+      "description": "A warm brown scarf that embodies comfort and simplicity. Ideal for autumn or outdoor-inspired avatars. Adds depth and natural tone to your outfit. Works well with layered or rustic fashion. Perfect for avatars who love earthy styles."
+    },
+    {
+      "name": "White Headphones",
+      "id": "4982301765",
+      "price": 22980,
+      "image": "roblox/accessories/neckaccessories/neck_white_headphones.webp",
+      "description": "Modern white headphones for sleek, minimal aesthetics. Fits perfectly with futuristic or music-themed looks. Adds a balanced pop of color to any style. Great for cool, laid-back avatars. A trendy pick among stylish Robloxians."
+    },
+    {
+      "name": "Silver Neckless",
+      "id": "6173094820",
+      "price": 46730,
+      "image": "roblox/accessories/neckaccessories/neck_y2k_silver_layered_necklace.webp",
+      "description": "A layered silver necklace that shines with Y2K energy. Perfect for modern, punk, or chic avatars. The metallic gleam enhances your fashion presence. Adds a luxurious yet edgy vibe. A favorite for trendy, confident players."
+    }
+  ],
+  "shoes": [
+    {
+      "name": "Black Flip-Flop",
+      "id": "5204819375",
+      "price": 15480,
+      "image": "roblox/clothings/shoes/ft_adidas_black_flip_flop.webp",
+      "description": "A comfy pair of black flip-flops made for relaxed avatars. Perfect for beach, summer, or casual hangout looks. Simple yet essential for chill vibes. The minimal design pairs with almost any outfit. Ideal for avatars who love comfort and ease."
+    },
+    {
+      "name": "Mules Silver",
+      "id": "6082194735",
+      "price": 37210,
+      "image": "roblox/clothings/shoes/ft_adidas_mules_silver.webp",
+      "description": "Stylish silver mules that shimmer with a metallic glow. Adds elegance to modern or high-fashion avatars. Great for parties or sleek city outfits. The silver tone brings a touch of luxury. A fashionable pick for confident players."
+    },
+    {
+      "name": "Adidas Predator 24",
+      "id": "6793204815",
+      "price": 28960,
+      "image": "roblox/clothings/shoes/ft_adidas_predator_24.webp",
+      "description": "Classic sports sneakers designed for agility and style. Perfect for athletic or streetwear avatars. The bold design gives a sporty edge. Great for active roleplay or casual Roblox events. A must-have for any sneaker enthusiast."
+    },
+    {
+      "name": "Adidas Predator Grey 24",
+      "id": "5738109426",
+      "price": 41850,
+      "image": "roblox/clothings/shoes/ft_adidas_predator_24_greyish.webp",
+      "description": "A cool grey variant of the Predator 24 for a sleek look. Balances subtlety with high performance. Ideal for avatars with sporty fashion sense. Matches well with techwear and minimalist outfits. Brings understated confidence to your step."
+    },
+    {
+      "name": "Adidas Predator Yellow Solar",
+      "id": "6920184735",
+      "price": 32740,
+      "image": "roblox/clothings/shoes/ft_adidas_predator_24_yellow_solar.webp",
+      "description": "Bright yellow solar sneakers full of energy. Perfect for bold and playful avatars. The vibrant color turns heads instantly. Great for sporty, upbeat, and fun outfits. A statement shoe for lively Roblox players."
+    },
+    {
+      "name": "Robo Shoes",
+      "id": "5172039486",
+      "price": 46520,
+      "image": "roblox/clothings/shoes/ft_adidas_robo_shoes.webp",
+      "description": "Futuristic shoes with a robotic edge. Designed for tech-inspired or sci-fi avatars. The metallic finish gives a cyberpunk vibe. Perfect for adventure and space-themed outfits. A creative and bold footwear choice."
+    },
+    {
+      "name": "Grey Shoes",
+      "id": "6049127385",
+      "price": 17630,
+      "image": "roblox/clothings/shoes/ft_canvas_shoes_grey.webp",
+      "description": "Classic grey canvas shoes that fit any style. Simple, casual, and endlessly versatile. Great for everyday Roblox looks. The neutral tone balances any outfit color. Ideal for avatars who prefer minimalist fashion."
+    },
+    {
+      "name": "White Shoes",
+      "id": "4982301754",
+      "price": 23870,
+      "image": "roblox/clothings/shoes/ft_canvas_shoes_white.webp",
+      "description": "Crisp white shoes for a clean, modern touch. Perfect for trendy or sporty avatars. Adds brightness and balance to your look. Matches nearly every outfit combination. A timeless must-have in every collection."
+    },
+    {
+      "name": "XCX Brat Heels",
+      "id": "5728193405",
+      "price": 49320,
+      "image": "roblox/clothings/shoes/ft_charli_xcx_brat_heels.webp",
+      "description": "Bold heels inspired by Charli XCX’s signature style. Perfect for glamorous or diva-themed avatars. Adds confidence and attitude to every step. Great for concerts, parties, or spotlight moments. A fierce fashion choice for trendsetters."
+    },
+    {
+      "name": "Cozy Black Fur Boots",
+      "id": "6813094723",
+      "price": 35260,
+      "image": "roblox/clothings/shoes/ft_cozy_black_fur_boots.webp",
+      "description": "Warm and fuzzy boots made for winter vibes. Ideal for cozy, casual, or snow-themed outfits. The soft fur texture adds luxury and comfort. Perfect for stylish cold-weather avatars. A fan favorite for seasonal fashion lovers."
+    },
+    {
+      "name": "Dress Shoes Brown",
+      "id": "5901832746",
+      "price": 20140,
+      "image": "roblox/clothings/shoes/ft_dress_shoes_brown.webp",
+      "description": "Elegant brown dress shoes built for class. Ideal for formal or business-style avatars. Adds sophistication to every look. The polished leather finish radiates confidence. A perfect match for suits or high-end fashion."
+    },
+    {
+      "name": "Black Flats",
+      "id": "6173094827",
+      "price": 16480,
+      "image": "roblox/clothings/shoes/ft_flats_black.webp",
+      "description": "Simple yet refined black flats for everyday wear. Perfect for elegant or casual styles. The sleek finish pairs with dresses or skirts. Comfortable and stylish all at once. A staple piece for any wardrobe."
+    },
+    {
+      "name": "Blue Flats",
+      "id": "4208371564",
+      "price": 31970,
+      "image": "roblox/clothings/shoes/ft_flats_blue.webp",
+      "description": "Charming blue flats for a soft, colorful touch. Great for cheerful or aesthetic avatars. Adds brightness without overpowering your outfit. Perfect for spring and summer themes. Comfortable, cute, and easy to wear."
+    },
+    {
+      "name": "Zebra Flats",
+      "id": "6842915071",
+      "price": 28410,
+      "image": "roblox/clothings/shoes/ft_flats_zebra.webp",
+      "description": "Animal print flats that make a bold statement. Great for wild, adventurous, or trendy avatars. Adds flair and uniqueness to your look. Perfect for players who love standing out. Stylish, daring, and full of personality."
+    },
+    {
+      "name": "High Tops",
+      "id": "5820419371",
+      "price": 24450,
+      "image": "roblox/clothings/shoes/ft_high_tops.webp",
+      "description": "Classic high-top sneakers with timeless appeal. Perfect for sporty or casual avatars. Adds a cool street-style vibe to any outfit. Comfortable and versatile for all occasions. A must-have for sneaker lovers."
+    },
+    {
+      "name": "Huggo X-FFS",
+      "id": "6950421834",
+      "price": 43680,
+      "image": "roblox/clothings/shoes/ft_huggo_x_ffs.webp",
+      "description": "Exclusive Huggo collab sneakers designed for edge. Blends fashion with futuristic aesthetics. Great for hypebeast or modern avatars. The chunky design radiates confidence. Perfect for those who love statement footwear."
+    },
+    {
+      "name": "Military Boots",
+      "id": "6839204152",
+      "price": 30820,
+      "image": "roblox/clothings/shoes/ft_militart_boots.webp",
+      "description": "Tough, durable boots built for adventure. Perfect for combat or explorer avatars. Adds realism and strength to your outfit. The rugged design enhances outdoor aesthetics. Great for avatars with a bold spirit."
+    },
+    {
+      "name": "Ralph Lauren",
+      "id": "5891374065",
+      "price": 47190,
+      "image": "roblox/clothings/shoes/ft_ralph_lauren.webp",
+      "description": "Designer-inspired footwear for luxury avatars. Sleek, polished, and unmistakably stylish. Ideal for classy, elegant, or urban looks. Adds sophistication and premium flair. A high-end touch for fashion-focused players."
+    },
+    {
+      "name": "Weyes Blood",
+      "id": "5271039843",
+      "price": 22260,
+      "image": "roblox/clothings/shoes/ft_weyes_blood.webp",
+      "description": "Unique shoes inspired by indie elegance. Perfect for artistic or dreamlike avatars. The design feels creative and expressive. Great for concert, art, or fantasy outfits. A rare accessory for imaginative players."
+    },
+    {
+      "name": "Work Boots Brown",
+      "id": "6173094819",
+      "price": 34970,
+      "image": "roblox/clothings/shoes/ft_work_boots_brown.webp",
+      "description": "Classic brown work boots that show rugged style. Perfect for outdoor or builder avatars. Adds strength and durability to your look. The weathered texture feels realistic. A solid choice for hardworking characters."
+    }
+  ],
+  "pants": [
+    {
+      "image": "roblox/clothings/pants/pant_baggy_jeans.webp",
+      "name": "Baggy Jeans",
+      "id": "5204819376",
+      "description": "Classic baggy jeans that provide a relaxed, cool look. Perfect for casual and streetwear avatars. The loose fit adds comfort and effortless style. Great for layering with hoodies or tees. A staple for trend-conscious Roblox players.",
+      "price": 38214
+    },
+    {
+      "image": "roblox/clothings/pants/pant_black_cargo_outfit.webp",
+      "name": "Black Cargo",
+      "id": "6082194736",
+      "description": "Sleek black cargo pants with functional pockets. Ideal for urban or tactical-themed avatars. Combines utility with fashion seamlessly. Works well in both casual and action-packed settings. A favorite for adventurous and stylish characters.",
+      "price": 24789
+    },
+    {
+      "image": "roblox/clothings/pants/pant_black_y2k_star_jeans.webp",
+      "name": "Black Y2K Star Jeans",
+      "id": "6793204816",
+      "description": "Trendy Y2K-style jeans adorned with star patterns. Perfect for retro or pop-inspired avatars. Adds a playful and nostalgic touch. Works well with colorful or minimalist tops. A must-have for Y2K fashion lovers.",
+      "price": 45873
+    },
+    {
+      "image": "roblox/clothings/pants/pant_blue_allien_sleep_pant.webp",
+      "name": "Blue Allien Sleep",
+      "id": "5738109427",
+      "description": "Cozy blue sleep pants with a fun alien print. Ideal for loungewear or pajama-themed avatars. Soft and comfortable for relaxed looks. Perfect for casual hangouts or sleepovers. Brings a playful charm to any outfit.",
+      "price": 19345
+    },
+    {
+      "image": "roblox/clothings/pants/pant_blue_butterfly_pants.webp",
+      "name": "Blue Butterfly",
+      "id": "6920184736",
+      "description": "Blue pants decorated with vibrant butterfly patterns. Great for spring or whimsical avatars. Adds a delicate, cheerful vibe to outfits. Matches well with pastel tops and accessories. A favorite for playful and creative players.",
+      "price": 32109
+    },
+    {
+      "image": "roblox/clothings/pants/pant_blue_denim_cargo_pant.webp",
+      "name": "Blue Denim Cargo",
+      "id": "5172039487",
+      "description": "Durable blue denim cargo pants with practical pockets. Perfect for sporty or explorer avatars. Combines style and utility effortlessly. Works well for casual and adventure looks. A versatile addition to any wardrobe.",
+      "price": 27654
+    },
+    {
+      "image": "roblox/clothings/pants/pant_denim_overall_outfit_pink.webp",
+      "name": "Denim Overall Outfit Pink",
+      "id": "6049127386",
+      "description": "Charming pink denim overalls for a cute, playful look. Ideal for sweet or casual-themed avatars. Adds a fun and youthful vibe to outfits. Perfect for spring or pastel aesthetics. A lovable choice for fashionable players.",
+      "price": 49902
+    },
+    {
+      "image": "roblox/clothings/pants/pant_forbidden_full_black_pant.webp",
+      "name": "Forbidden Black Pant",
+      "id": "4982301755",
+      "description": "Sleek black pants with a mysterious, edgy feel. Great for gothic or stealth-themed avatars. Adds a bold, confident aesthetic. Pairs perfectly with dark tops and accessories. A must-have for daring Roblox players.",
+      "price": 21376
+    },
+    {
+      "image": "roblox/clothings/pants/pant_gangster_jeans.webp",
+      "name": "Gangster Jeans",
+      "id": "5728193406",
+      "description": "Cool and edgy jeans designed with urban flair. Perfect for street-style avatars. Adds a rebellious and confident vibe. Works well with oversized tops or sneakers. A favorite for hip-hop or gangster-themed outfits.",
+      "price": 36781
+    },
+    {
+      "image": "roblox/clothings/pants/pant_oversized_denim_overall_outfit.webp",
+      "name": "Oversized Denim",
+      "id": "6813094724",
+      "description": "Relaxed oversized denim overalls for casual fashion. Adds volume and comfort to avatars. Great for layered streetwear or chill looks. Perfect for youthful and trendy characters. A stylish and versatile choice.",
+      "price": 28490
+    },
+    {
+      "image": "roblox/clothings/pants/pant_pajama_pant.webp",
+      "name": "Pajama Pant",
+      "id": "5901832747",
+      "description": "Soft, cozy pajama pants for relaxing avatars. Ideal for home, sleep, or lounge-themed looks. Adds comfort and cuteness to any outfit. Works well with matching tops or slippers. Perfect for casual Roblox hangouts.",
+      "price": 17845
+    },
+    {
+      "image": "roblox/clothings/pants/pant_peach_cargo_pant.webp",
+      "name": "Peach Cargo",
+      "id": "6173094828",
+      "description": "Light peach cargo pants with a fun, trendy color. Perfect for spring or pastel-themed avatars. Combines utility with aesthetic charm. Great for casual and playful outfits. Adds a cheerful touch to any style.",
+      "price": 44218
+    },
+    {
+      "image": "roblox/clothings/pants/pant_pink_baggy_cargo_pants.webp",
+      "name": "Pink Baggy Cargo",
+      "id": "4208371565",
+      "description": "Trendy pink baggy cargo pants with functional pockets. Ideal for bold or playful avatars. Combines comfort with a stylish, urban vibe. Perfect for streetwear and casual looks. A standout piece in any collection.",
+      "price": 30976
+    },
+    {
+      "image": "roblox/clothings/pants/pant_pink_white_y2k_cargo_pants.webp",
+      "name": "Pink-White Y2K Cargo",
+      "id": "6842915072",
+      "description": "Y2K-inspired cargo pants in pink and white tones. Great for nostalgic or retro-themed avatars. Adds a playful, bold vibe to outfits. Works well with matching tops or sneakers. A favorite for Y2K fashion enthusiasts.",
+      "price": 12654
+    },
+    {
+      "image": "roblox/clothings/pants/pant_ripped_black_jeans.webp",
+      "name": "Ripped Black Jeans",
+      "id": "5820419372",
+      "description": "Edgy black jeans with stylish ripped details. Perfect for rebellious or rock-inspired avatars. Adds attitude and personality to any look. Works well with leather jackets or hoodies. A must-have for bold fashion statements.",
+      "price": 39587
+    },
+    {
+      "image": "roblox/clothings/pants/pant_super_light_baggy_wash_jeans.webp",
+      "name": "Super Light Baggy Wash Jeans",
+      "id": "6950421835",
+      "description": "Light-wash baggy jeans that provide comfort and cool style. Great for casual or street-themed avatars. Adds a relaxed, laid-back vibe. Perfect for layering with oversized tops. A staple for trend-conscious Roblox players.",
+      "price": 21893
+    },
+    {
+      "image": "roblox/clothings/pants/pant_urban_medium_cargo_jeans.webp",
+      "name": "Urban Medium Cargo",
+      "id": "6839204153",
+      "description": "Medium-fit cargo jeans with an urban aesthetic. Ideal for street-style or everyday avatars. Adds a functional and stylish touch to outfits. Great for casual and city-themed looks. A versatile wardrobe essential.",
+      "price": 33471
+    },
+    {
+      "image": "roblox/clothings/pants/pant_white_sweatpants.webp",
+      "name": "White Sweat Pants",
+      "id": "5891374066",
+      "description": "Comfy white sweatpants for casual and relaxed avatars. Perfect for lounge, streetwear, or athletic looks. Adds softness and simplicity to outfits. Great for minimalistic or sporty styles. A favorite for comfort-loving players.",
+      "price": 15230
+    },
+    {
+      "image": "roblox/clothings/pants/pant_white_y2k_cargo_pants.webp",
+      "name": "White Y2K Cargo",
+      "id": "5271039844",
+      "description": "Trendy Y2K-inspired white cargo pants. Ideal for retro or futuristic avatars. Adds a clean, stylish look to any outfit. Perfect for playful and bold fashion statements. A standout piece for Y2K enthusiasts.",
+      "price": 47012
+    },
+    {
+      "image": "roblox/clothings/pants/pant_y2k_wide_cargo_black_pant.webp",
+      "name": "Black Y2K Wide Cargo",
+      "id": "6173094821",
+      "description": "Wide-leg black cargo pants with Y2K style flair. Great for edgy or streetwear-themed avatars. Combines comfort with bold fashion. Perfect for oversized tops and sneakers. A top choice for trendsetting players.",
+      "price": 28964
+    }
+  ],
+  "tshirts": [
+    {
+      "image": "roblox/clothings/tshirts/tee_baggy_off_band_shirt.webp",
+      "name": "Baggy Off-Band",
+      "id": "5204819377",
+      "description": "A loose, baggy off-band T-shirt perfect for casual streetwear avatars. Adds a relaxed and edgy vibe. Great for layering over long sleeves or hoodies. Ideal for music-themed or concert outfits. A staple piece for trend-conscious players.",
+      "price": 38421
+    },
+    {
+      "image": "roblox/clothings/tshirts/tee_black_crop_top.webp",
+      "name": "Black Crop Top",
+      "id": "6082194737",
+      "description": "Sleek black crop top that shows confidence and style. Perfect for edgy or minimalist avatars. Pairs well with high-waist pants or skirts. Adds a modern and chic look. A versatile staple for fashionable Roblox players.",
+      "price": 21560
+    },
+    {
+      "image": "roblox/clothings/tshirts/tee_black_silver_cross_top.webp",
+      "name": "Black Silver Cross Top",
+      "id": "6793204817",
+      "description": "A stylish black top featuring a silver cross design. Great for gothic or punk-inspired avatars. Adds attitude and sophistication to outfits. Works well with layered accessories or pants. Perfect for players who love bold fashion statements.",
+      "price": 47215
+    },
+    {
+      "image": "roblox/clothings/tshirts/tee_black_tank_top.webp",
+      "name": "Black Tank Top",
+      "id": "5738109428",
+      "description": "Simple black tank top ideal for casual or sporty avatars. Comfortable and versatile for any look. Matches perfectly with jeans, skirts, or shorts. Adds a sleek and minimalistic aesthetic. A must-have basic for every wardrobe.",
+      "price": 18932
+    },
+    {
+      "image": "roblox/clothings/tshirts/tee_blue_tube_top.webp",
+      "name": "Blue Crop Top",
+      "id": "7818109428",
+      "description": "Trendy blue crop top with a stylish fit, perfect for casual and party avatars. Made with soft, breathable fabric for comfort. Pairs beautifully with high-waisted jeans, shorts, or skirts. Adds a vibrant and youthful touch to any outfit.",
+      "price": 30145
+    },
+    {
+      "image": "roblox/clothings/tshirts/tee_emo.webp",
+      "name": "EMO",
+      "id": "6920184737",
+      "description": "Dark emo-style T-shirt that embodies expressive fashion. Perfect for alternative or gothic avatars. Adds personality and edge to outfits. Complements ripped jeans and chunky shoes. A favorite for moody and artistic players.",
+      "price": 25467
+    },
+    {
+      "image": "roblox/clothings/tshirts/tee_heart_baby.webp",
+      "name": "Heart Baby",
+      "id": "5172039488",
+      "description": "Cute top decorated with heart patterns for playful avatars. Perfect for pastel, kawaii, or sweet looks. Adds charm and innocence to outfits. Works well with skirts, jeans, or cargo pants. A delightful choice for cheerful Robloxians.",
+      "price": 41276
+    },
+    {
+      "image": "roblox/clothings/tshirts/tee_leopard_tank_top.webp",
+      "name": "Leopard Tank Top",
+      "id": "6049127387",
+      "description": "Wild leopard-print tank top for bold and trendy avatars. Perfect for edgy or fashion-forward looks. Adds a striking and daring aesthetic. Pairs well with neutral bottoms to highlight the pattern. Ideal for confident and stylish players.",
+      "price": 33840
+    },
+    {
+      "image": "roblox/clothings/tshirts/tee_oversized_black.webp",
+      "name": "Black Oversized",
+      "id": "4982301756",
+      "description": "Relaxed black oversized T-shirt for casual or streetwear avatars. Adds a comfortable and modern vibe. Perfect for layering with jackets or accessories. Works well with sneakers and high-waist pants. A staple for laid-back and trendy Robloxians.",
+      "price": 16874
+    },
+    {
+      "image": "roblox/clothings/tshirts/tee_pink_crop_top.webp",
+      "name": "Pink Crop Top",
+      "id": "5728193407",
+      "description": "Cute pink crop top for sweet and cheerful avatars. Perfect for pastel or Y2K-inspired outfits. Adds a playful and stylish touch. Pairs well with skirts or high-waist pants. A favorite for cheerful and fashion-forward players.",
+      "price": 49210
+    },
+    {
+      "image": "roblox/clothings/tshirts/tee_pink_ruffle_sleeves.webp",
+      "name": "Pink Ruffle Sleeves",
+      "id": "6813094726",
+      "description": "Adorable pink top with ruffled sleeves for playful avatars. Ideal for cute, girly, or sweet themes. Adds texture and charm to outfits. Perfect with skirts or denim shorts. Loved by players who enjoy delicate fashion details.",
+      "price": 27655
+    },
+    {
+      "image": "roblox/clothings/tshirts/tee_purple.webp",
+      "name": "Purple Crop T-shirt",
+      "id": "5901832748",
+      "description": "Vibrant purple crop T-shirt for bold and stylish avatars. Great for casual or trendy outfits. Adds a pop of color to any look. Pairs well with high-waist jeans or cargo pants. Perfect for players who love fun and fashion-forward styles.",
+      "price": 22103
+    },
+    {
+      "image": "roblox/clothings/tshirts/tee_secret_service.webp",
+      "name": "Secret Service",
+      "id": "6173094829",
+      "description": "Mysterious and sleek T-shirt inspired by secret service style. Perfect for spy or action-themed avatars. Adds a professional yet edgy vibe. Works well with black pants or tactical accessories. A standout piece for roleplay enthusiasts.",
+      "price": 36492
+    },
+    {
+      "image": "roblox/clothings/tshirts/tee_star.webp",
+      "name": "Star",
+      "id": "4208371566",
+      "description": "Top decorated with star patterns for playful or themed avatars. Great for casual, cosmic, or Y2K outfits. Adds charm and uniqueness to looks. Pairs well with denim or pastel bottoms. A fun choice for creative Roblox players.",
+      "price": 14580
+    },
+    {
+      "image": "roblox/clothings/tshirts/tee_tube_top_black.webp",
+      "name": "Tube Black",
+      "id": "6842915073",
+      "description": "Simple black tube top for confident and stylish avatars. Perfect for minimal or edgy fashion themes. Pairs well with high-waist pants or skirts. Adds a chic, modern look to any outfit. A staple for trendy Roblox players.",
+      "price": 40731
+    },
+    {
+      "image": "roblox/clothings/tshirts/tee_white.webp",
+      "name": "White Off-Shoulder Top",
+      "id": "5820419373",
+      "description": "Elegant white off-shoulder top for chic avatars. Perfect for summer, casual, or aesthetic outfits. Adds sophistication and charm to looks. Pairs beautifully with skirts or jeans. A must-have for fashionable Robloxians.",
+      "price": 31895
+    },
+    {
+      "image": "roblox/clothings/tshirts/tee_white_bow_top.webp",
+      "name": "White Bow Top",
+      "id": "6950421836",
+      "description": "Cute white top featuring a bow design for sweet avatars. Ideal for girly, kawaii, or pastel themes. Adds charm and detail to any outfit. Works well with skirts, pants, or overalls. Loved by players who enjoy delicate fashion.",
+      "price": 23844
+    },
+    {
+      "image": "roblox/clothings/tshirts/tee_white_crop_top.webp",
+      "name": "White Crop Top",
+      "id": "6839204154",
+      "description": "Classic white crop top for versatile avatars. Perfect for casual, streetwear, or minimalistic looks. Pairs effortlessly with jeans, skirts, or cargo pants. Adds a clean and stylish aesthetic. A staple in every Roblox wardrobe.",
+      "price": 45762
+    },
+    {
+      "image": "roblox/clothings/tshirts/tee_y2k_california_crop_top.webp",
+      "name": "Y2K California Crop Top",
+      "id": "5891374067",
+      "description": "Trendy Y2K-inspired California crop top. Perfect for retro or beach-themed avatars. Adds playful and vibrant energy to outfits. Pairs well with cargo pants or denim shorts. A top pick for Y2K fashion lovers.",
+      "price": 19973
+    },
+    {
+      "image": "roblox/clothings/tshirts/tee_y2k_star_baby_tee.webp",
+      "name": "Y2K Star Baby",
+      "id": "5271039845",
+      "description": "Cute Y2K-style top decorated with stars for playful avatars. Ideal for pastel or retro outfits. Adds charm and personality to any look. Perfect with skirts, pants, or cargo bottoms. Loved by players who enjoy nostalgic fashion.",
+      "price": 34628
+    }
+  ],
+  "shirts": [
+    {
+      "image": "roblox/clothings/shirts/shirt_adidas_knitted_top.webp",
+      "name": "Adidas Knitted Top",
+      "id": "5204819378",
+      "description": "A stylish Adidas knitted top perfect for sporty or casual avatars. Combines comfort with modern athletic fashion. Great for layering with jackets or hoodies. Ideal for streetwear-inspired looks. A must-have for sporty Roblox players.",
+      "price": 38420
+    },
+    {
+      "image": "roblox/clothings/shirts/shirt_ardor_open_zip_hoodie.webp",
+      "name": "Ardor Open Zip Hoodie",
+      "id": "6082194738",
+      "description": "Classic open-zip hoodie that blends casual comfort with style. Perfect for layering or lounging avatars. Adds a relaxed, modern vibe to any outfit. Great for sporty or urban themes. A versatile piece for all Roblox wardrobes.",
+      "price": 21580
+    },
+    {
+      "image": "roblox/clothings/shirts/shirt_ardor_open_zip_hoodie_grey.webp",
+      "name": "Ardor Open Zip Grey Hoodie",
+      "id": "6793204818",
+      "description": "Grey open-zip hoodie with a minimalist design. Ideal for casual, streetwear, or sporty avatars. Pairs effortlessly with jeans or cargo pants. Adds a sleek, comfortable aesthetic. A staple for laid-back Roblox players.",
+      "price": 47260
+    },
+    {
+      "image": "roblox/clothings/shirts/shirt_bandana_top_black.webp",
+      "name": "Bandana Black Top",
+      "id": "5738109429",
+      "description": "Black top with a trendy bandana pattern. Perfect for edgy, punk, or street-style avatars. Adds attitude and personality to outfits. Pairs well with jeans or cargo pants. A bold choice for confident players.",
+      "price": 18840
+    },
+    {
+      "image": "roblox/clothings/shirts/shirt_black_cropped_zip_hoodie.webp",
+      "name": "Black Cropped Zip Hoodie",
+      "id": "6920184738",
+      "description": "Cropped black zip hoodie for stylish and modern avatars. Adds an edgy, trendy vibe to outfits. Great for layering with crop tops or high-waist pants. Perfect for casual, sporty, or streetwear looks. A must-have for fashion-forward Robloxians.",
+      "price": 30920
+    },
+    {
+      "image": "roblox/clothings/shirts/shirt_black_trendy_scholl_top.webp",
+      "name": "Black Trendy School Top",
+      "id": "5172039489",
+      "description": "Fashionable black top inspired by school-style uniforms. Ideal for preppy or stylish avatars. Adds sophistication and charm to outfits. Works well with skirts, pants, or layered looks. A versatile piece for trendy players.",
+      "price": 25410
+    },
+    {
+      "image": "roblox/clothings/shirts/shirt_black_white_bandage_top.webp",
+      "name": "Black-White Bandage Top",
+      "id": "6049127388",
+      "description": "Edgy black-and-white bandage top for bold avatars. Perfect for punk, goth, or modern fashion styles. Adds a confident and striking aesthetic. Pairs well with high-waist pants or skirts. A standout choice for daring players.",
+      "price": 41150
+    },
+    {
+      "image": "roblox/clothings/shirts/shirt_blue_bandage_crop_top.webp",
+      "name": "Blue Bandage Top",
+      "id": "4982301757",
+      "description": "Bright blue bandage-style crop top for trendy avatars. Adds a modern, chic, and stylish touch. Perfect for streetwear or party-themed outfits. Pairs well with jeans, skirts, or cargo pants. A favorite for fashion-forward Robloxians.",
+      "price": 33680
+    },
+    {
+      "image": "roblox/clothings/shirts/shirt_cute_summer_crop_top.webp",
+      "name": "Cute Summer Crop Top",
+      "id": "5728193408",
+      "description": "Sweet crop top designed for summer or pastel-themed avatars. Adds charm, color, and playful energy. Ideal for casual, fun, or beach-themed outfits. Pairs beautifully with skirts or shorts. Loved by players who enjoy cute fashion.",
+      "price": 16870
+    },
+    {
+      "image": "roblox/clothings/shirts/shirt_denim_tears_hoodie.webp",
+      "name": "Denim Tears Hoodie",
+      "id": "6813094727",
+      "description": "Stylish hoodie with denim detailing and tear accents. Perfect for edgy or streetwear avatars. Adds texture, style, and a unique aesthetic. Pairs well with jeans or cargo pants. A standout piece for modern Roblox fashion.",
+      "price": 49230
+    },
+    {
+      "image": "roblox/clothings/shirts/shirt_leopard_folded_top.webp",
+      "name": "Leopard Folded Top",
+      "id": "5901832749",
+      "description": "Chic leopard-print folded top for bold and stylish avatars. Adds a fierce and fashionable statement. Works well with neutral bottoms or denim. Perfect for urban or trendy looks. A must-have for daring fashion lovers.",
+      "price": 27750
+    },
+    {
+      "image": "roblox/clothings/shirts/shirt_leopard_print_tied_top.webp",
+      "name": "Leopard Print Tied Top",
+      "id": "6173094830",
+      "description": "Leopard print top with a tied detail for edgy, fashionable avatars. Adds flair and style to any outfit. Pairs perfectly with jeans, shorts, or skirts. Ideal for confident and trendsetting players. A statement piece for bold Roblox fashion.",
+      "price": 22160
+    },
+    {
+      "image": "roblox/clothings/shirts/shirt_miami_off_shoulder.webp",
+      "name": "Miami Off-Shoulder",
+      "id": "4208371567",
+      "description": "Stylish off-shoulder top perfect for summer or casual avatars. Adds a chic and playful vibe. Works well with skirts, shorts, or jeans. Ideal for beach or pastel-themed outfits. A favorite for cute and trendy Roblox players.",
+      "price": 36400
+    },
+    {
+      "image": "roblox/clothings/shirts/shirt_miami_off_shoulder_black.webp",
+      "name": "Miami Black Off-Shoulder",
+      "id": "6842915074",
+      "description": "Elegant black off-shoulder top for chic and confident avatars. Perfect for evening or modern casual outfits. Adds sophistication and a fashionable edge. Pairs well with skirts, pants, or shorts. A staple piece for stylish Robloxians.",
+      "price": 14550
+    },
+    {
+      "image": "roblox/clothings/shirts/shirt_oversized_black_crop_top.webp",
+      "name": "Black Oversized Crop Top",
+      "id": "5820419374",
+      "description": "Trendy black oversized crop top for relaxed and fashionable avatars. Adds a modern and edgy vibe. Works well with jeans, cargo pants, or skirts. Perfect for streetwear or casual outfits. A versatile choice for fashion-forward players.",
+      "price": 40790
+    },
+    {
+      "image": "roblox/clothings/shirts/shirt_oversized_white_crop_top.webp",
+      "name": "White Oversized Crop Top",
+      "id": "6950421837",
+      "description": "Chic white oversized crop top for modern and stylish avatars. Adds comfort and a relaxed aesthetic. Pairs well with high-waist pants, skirts, or cargo bottoms. Perfect for streetwear or casual looks. A must-have staple for Roblox wardrobes.",
+      "price": 31870
+    },
+    {
+      "image": "roblox/clothings/shirts/shirt_oxford_off_shoulder.webp",
+      "name": "Oxford Off-Shoulder",
+      "id": "6839204155",
+      "description": "Elegant off-shoulder oxford top for refined avatars. Perfect for chic, formal, or preppy outfits. Adds sophistication and class to any look. Works well with skirts or tailored pants. A stylish choice for polished Roblox fashion.",
+      "price": 23840
+    },
+    {
+      "image": "roblox/clothings/shirts/shirt_striped_oversized_top.webp",
+      "name": "Striped Oversized Top",
+      "id": "5891374068",
+      "description": "Casual oversized top with stripes for relaxed and trendy avatars. Adds playful charm and style to outfits. Works well with jeans, leggings, or skirts. Perfect for streetwear and casual fashion. A versatile staple for all Roblox wardrobes.",
+      "price": 45730
+    },
+    {
+      "image": "roblox/clothings/shirts/shirt_white_oversized_sweater.webp",
+      "name": "White Oversized Sweater",
+      "id": "5271039846",
+      "description": "Cozy white oversized sweater for comfortable and stylish avatars. Perfect for casual, winter, or lounge-themed outfits. Adds softness and charm to any look. Pairs beautifully with pants, skirts, or leggings. A must-have for cozy Roblox fashion.",
+      "price": 19980
+    },
+    {
+      "image": "roblox/clothings/shirts/shirt_y2k_red_paid_christmas_outfit.webp",
+      "name": "Y2K Red Christmas Outfit",
+      "id": "6173094822",
+      "description": "Festive Y2K-inspired red top perfect for holiday avatars. Adds cheer, style, and seasonal charm. Ideal for Christmas or winter-themed outfits. Pairs well with matching pants or skirts. A standout piece for holiday fashion in Roblox.",
+      "price": 34650
+    }
+  ],
+  "facelooks": [
+    {
+      "image": "roblox/headbody/facelooks/face_angry.webp",
+      "name": "Angry",
+      "id": "5204819379",
+      "description": "A fierce angry face for expressive avatars. Perfect for roleplay or intense scenarios. Adds personality and emotion to your character. Works well with edgy or action-themed outfits. A must-have for dramatic Roblox players.",
+      "price": 38210
+    },
+    {
+      "image": "roblox/headbody/facelooks/face_cute_smile.webp",
+      "name": "Cute Smile",
+      "id": "6082194739",
+      "description": "A cheerful cute smile face for happy and playful avatars. Ideal for casual and friendly looks. Adds charm and approachability to your character. Works well with pastel or bright outfits. A favorite for fun-loving Robloxians.",
+      "price": 21450
+    },
+    {
+      "image": "roblox/headbody/facelooks/face_eye_blink.webp",
+      "name": "Eye Blinking",
+      "id": "6793204819",
+      "description": "A lively eye-blinking face for animated avatars. Adds realism and expressiveness to your character. Perfect for fun or interactive roleplays. Pairs well with casual or quirky outfits. Brings avatars to life with subtle movements.",
+      "price": 46890
+    },
+    {
+      "image": "roblox/headbody/facelooks/face_look_at_my_nose.webp",
+      "name": "Look at my Nose",
+      "id": "5738109430",
+      "description": "A playful face focusing attention on the nose. Ideal for humorous or whimsical avatars. Adds a quirky and fun vibe to outfits. Works well with casual or themed clothing. Perfect for funny roleplays or social interactions.",
+      "price": 19340
+    },
+    {
+      "image": "roblox/headbody/facelooks/face_scared.webp",
+      "name": "Scary",
+      "id": "6920184739",
+      "description": "A scared face for dramatic or spooky avatars. Perfect for horror or suspense-themed roleplays. Adds emotion and intensity to character expressions. Pairs well with dark or themed outfits. A great choice for storytelling in Roblox.",
+      "price": 30980
+    },
+    {
+      "image": "roblox/headbody/facelooks/face_sigmund.webp",
+      "name": "Sigmud",
+      "id": "5172039490",
+      "description": "A unique Sigmud face for quirky or mysterious avatars. Ideal for creative or eccentric looks. Adds character and distinction to outfits. Works well with unusual or themed clothing. A standout for imaginative Roblox players.",
+      "price": 27650
+    },
+    {
+      "image": "roblox/headbody/facelooks/face_silly_fun.webp",
+      "name": "Silly Funny",
+      "id": "6049127389",
+      "description": "A silly and funny face for playful avatars. Adds humor and light-heartedness to outfits. Perfect for casual or party-themed looks. Works well with bright or whimsical clothing. A favorite for fun and cheerful players.",
+      "price": 44120
+    },
+    {
+      "image": "roblox/headbody/facelooks/face_sly_guy_face.webp",
+      "name": "Sly Guy Face",
+      "id": "4982301758",
+      "description": "A sly and mischievous face for cunning avatars. Ideal for playful or sneaky roleplays. Adds personality and attitude to your character. Works well with edgy or stylish outfits. Perfect for clever and witty players.",
+      "price": 16780
+    },
+    {
+      "image": "roblox/headbody/facelooks/face_teeth_smile.webp",
+      "name": "Teeth Smiling",
+      "id": "5728193409",
+      "description": "A bright teeth-smiling face for joyful avatars. Adds cheerfulness and friendliness to characters. Ideal for casual or happy roleplays. Pairs well with colorful or fun clothing. A go-to for expressive Robloxians.",
+      "price": 39950
+    },
+    {
+      "image": "roblox/headbody/facelooks/face_tongy_smile.webp",
+      "name": "Tongy Smiling",
+      "id": "6813094728",
+      "description": "A playful tongue-out smiling face for quirky avatars. Perfect for fun and whimsical looks. Adds humor and charm to outfits. Works well with casual or themed clothing. A favorite for humorous and lighthearted players.",
+      "price": 28560
+    }
+  ],
+  "hairs": [
+    {
+      "image": "roblox/headbody/hairs/hair_barided.webp",
+      "name": "Barided Hair",
+      "id": "5204819380",
+      "description": "A stylish braided hairstyle for trendy avatars. Perfect for casual, formal, or fashion-forward looks. Adds texture and charm to any outfit. Works well with hats or hair accessories. A versatile choice for creative Roblox players.",
+      "price": 36240
+    },
+    {
+      "image": "roblox/headbody/hairs/hair_black_layered.webp",
+      "name": "Black Layered",
+      "id": "6082194740",
+      "description": "Sleek black layered hair for modern and fashionable avatars. Ideal for casual, edgy, or chic looks. Adds depth and dimension to character appearance. Pairs well with hats or accessories. A staple for stylish Robloxians.",
+      "price": 20870
+    },
+    {
+      "image": "roblox/headbody/hairs/hair_fluffy_white.webp",
+      "name": "White Fluffy",
+      "id": "6793204820",
+      "description": "Fluffy white hair for playful and whimsical avatars. Perfect for fantasy or winter-themed looks. Adds volume and charm to outfits. Works well with pastel or vibrant clothing. A favorite for expressive and creative players.",
+      "price": 47010
+    },
+    {
+      "image": "roblox/headbody/hairs/hair_layered_wavy_valley_girl.webp",
+      "name": "Brown Layered Wavy Valley",
+      "id": "5738109431",
+      "description": "Trendy brown layered wavy hair with a valley-girl vibe. Ideal for casual or chic avatars. Adds movement and style to character looks. Pairs beautifully with streetwear or dresses. Loved by players who enjoy fashionable hairstyles.",
+      "price": 25430
+    },
+    {
+      "image": "roblox/headbody/hairs/hair_medium_middle_part.webp",
+      "name": "Medium Middle Part",
+      "id": "6920184740",
+      "description": "Classic medium-length hair with a middle part. Perfect for versatile avatars of all styles. Adds elegance and balance to character looks. Works well with accessories or hats. A go-to choice for stylish Robloxians.",
+      "price": 31890
+    },
+    {
+      "image": "roblox/headbody/hairs/hair_orange_beanie_whith_black.webp",
+      "name": "Orange Beanie With Black",
+      "id": "5172039491",
+      "description": "Fun orange beanie hairstyle with black accents. Ideal for casual or playful avatars. Adds color and personality to outfits. Pairs well with streetwear or sporty clothes. A cheerful choice for trendy players.",
+      "price": 17420
+    },
+    {
+      "image": "roblox/headbody/hairs/hair_pony_tail.webp",
+      "name": "Pony Tail",
+      "id": "6049127390",
+      "description": "Classic ponytail hairstyle for active and stylish avatars. Perfect for casual, sporty, or elegant looks. Adds movement and charm to characters. Works well with hats, headbands, or accessories. A staple for versatile Roblox hairstyles.",
+      "price": 41280
+    },
+    {
+      "image": "roblox/headbody/hairs/hair_rainbow_coloured.webp",
+      "name": "Rainbow Coloured",
+      "id": "4982301759",
+      "description": "Vibrant rainbow-colored hair for bold and creative avatars. Adds color and fun to any outfit. Ideal for party, fantasy, or themed looks. Works well with quirky accessories or bright clothing. Loved by playful and imaginative players.",
+      "price": 28960
+    },
+    {
+      "image": "roblox/headbody/hairs/hair_valentines.webp",
+      "name": "Valentines",
+      "id": "5728193410",
+      "description": "Cute Valentine's-themed hairstyle for sweet avatars. Perfect for romantic or pastel-themed looks. Adds charm and festive vibes to outfits. Works beautifully with dresses or casual clothes. A favorite for cheerful Robloxians.",
+      "price": 35640
+    },
+    {
+      "image": "roblox/headbody/hairs/hair_wavy_middle_part.webp",
+      "name": "Wavy Middle Part",
+      "id": "6813094729",
+      "description": "Soft wavy hair with a middle part for stylish avatars. Ideal for casual, elegant, or trendy outfits. Adds volume and natural movement to character looks. Pairs well with hats or hair accessories. A versatile choice for fashionable players.",
+      "price": 22450
+    }
+  ],
+  "faceshapes": [
+    {
+      "image": "roblox/headbody/facesshapes/head_trim.webp",
+      "name": "Trim",
+      "id": "5204819381",
+      "description": "A sleek and trim face shape for stylish avatars. Perfect for modern and clean looks. Adds elegance and balance to character appearance. Works well with all hairstyles and accessories. A versatile choice for fashionable Robloxians.",
+      "price": 30120
+    },
+    {
+      "image": "roblox/headbody/facesshapes/head_cheeks.webp",
+      "name": "Cheeks",
+      "id": "6082194741",
+      "description": "A face shape emphasizing prominent cheeks for playful avatars. Adds charm and character to your look. Ideal for casual, cute, or expressive outfits. Pairs well with hats and hairstyles. Loved by cheerful and friendly players.",
+      "price": 19230
+    },
+    {
+      "image": "roblox/headbody/facesshapes/head_chiseled.webp",
+      "name": "Chiseled",
+      "id": "6793204821",
+      "description": "A sharp and chiseled face shape for confident avatars. Adds definition and a strong aesthetic. Perfect for edgy, formal, or heroic looks. Works well with modern hairstyles and accessories. A bold choice for striking Robloxians.",
+      "price": 46840
+    },
+    {
+      "image": "roblox/headbody/facesshapes/head_narrow.webp",
+      "name": "Narrow",
+      "id": "5738109432",
+      "description": "A narrow face shape for sleek and refined avatars. Ideal for elegant, casual, or fashionable outfits. Adds sophistication and balance to character looks. Works beautifully with hats, glasses, and hairstyles. A favorite for polished Roblox players.",
+      "price": 25670
+    },
+    {
+      "image": "roblox/headbody/facesshapes/head_paragon.webp",
+      "name": "Paragon",
+      "id": "6920184741",
+      "description": "A paragon face shape for heroic and charismatic avatars. Perfect for bold, themed, or roleplay outfits. Adds strength and charm to the character appearance. Pairs well with accessories, hairstyles, and clothing. A standout choice for confident Robloxians.",
+      "price": 38790
+    },
+    {
+      "image": "roblox/headbody/facesshapes/head_strong_jaw.webp",
+      "name": "Strong Jaw",
+      "id": "5172039492",
+      "description": "A face shape with a strong jawline for powerful avatars. Ideal for edgy, heroic, or stylish looks. Adds character and presence to any outfit. Works well with modern hairstyles and accessories. A must-have for bold Roblox players.",
+      "price": 22980
+    }
   ]
 }
