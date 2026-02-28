@@ -27,7 +27,7 @@
   "rewardedFacebookID": "4078647322385368_4078720925711341",
   "rewardedWebLink1": "https://blinkgames007.github.io/",
   "rewardedWebLink2": "https://1088.mark.qureka.com/intro/question",
-  "isRewardedWebLink2Show": true,
+  "isRewardedWebLink2Show": false,
   "rewardedWebLink3": "https://zipygames.github.io/",
   "isRewardedWebLink3Show": false,
   "isInterShowInIntent": true,
@@ -42,7 +42,7 @@
   "rewardedInterFacebookID": "4078647322385368_4078721632377937",
   "interWebLink1": "https://1088.mark.qureka.com/intro/question",
   "interWebLink2": "https://blinkgames007.github.io/",
-  "isInterWebLink2Show": true,
+  "isInterWebLink2Show": false,
   "interWebLink3": "https://zipygames.github.io/",
   "isInterWebLink3Show": false,
   "isBanner1Show": true,
@@ -86,3 +86,4 @@
   "nativeWebSmallLink": "https://1088.mark.qureka.com/intro/question"
 
 }
+
